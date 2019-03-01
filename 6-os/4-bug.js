@@ -25,3 +25,11 @@ console.log(obj);
   }
 
 */
+
+
+
+/* to debug with chrome dev tools :  
+1. node --inspect-brk 'filename'.js 
+2. go to the chrome and in url type: chrome://inspect
+*/
+
