@@ -1,1 +1,4 @@
-console.log('Who needs the Event Loop!!');
+setInterval(()=>{
+    console.log('Who needs the Event Loop!!');
+},5000)
+

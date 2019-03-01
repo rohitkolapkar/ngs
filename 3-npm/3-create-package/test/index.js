@@ -1,6 +1,6 @@
-const print = require('frame-print');
+const print = require('rohitkolapkar-frame-print');
 
-print('Hello NPM!');
+print('heloooooooooooo');
 
 /*
 Expected Output:
